@@ -1,8 +1,10 @@
 ## Hi there 👋
-
-![Codewars](https://github.r2v.ch/codewars?user=Aealius&top_languages=true&theme=light&stroke=%23191919)
+<span>
+<img src="https://github.r2v.ch/codewars?user=Aealius&top_languages=true&theme=light&stroke=%23191919"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aealius&show_icons=true&locale=en&layout=compact&theme=shadow_red" alt="ovi" display=/>
+
+</span>
 
 <!--
 **Aealius/Aealius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
